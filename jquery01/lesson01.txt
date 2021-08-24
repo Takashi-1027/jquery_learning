@@ -5,3 +5,14 @@ jQueryを学ぼう
 
   参考画像：jquery01_image_1.jpg
 
+～jQueryに触れてみよう～
+jQueryとは
+  jQueryはJavaScriptのライブラリの1つです。
+  ユーザーのクリックに反応して表示されるフォームや、アニメーションなど、
+  HTMLとCSSだけでは実現できなかった様々な動きを実現することができます。
+
+  参考画像：jquery01_image_2.jpg
+  参考画像：jquery01_image_3.jpg
+  （アニメーションで動いている）
+
+  
