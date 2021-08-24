@@ -165,3 +165,25 @@ HTMLを変更する（２）-htmlメソッド
   ブラウザには「こんばんは」とだけ表示されます。
 
   参考画像：jquery01_image_23.jpg
+
+演習問題で、以下のようにコーディングした。
+その時に、気を付けるポイントあったため書き残す。
+そのポイントは以下のコードである。
+
+$('#text').html('<a href="https://prog-8.com/">ようこそ、Progateへ</a>');
+
+htmlメソッドを使い、リンクを付けるとき<a>タグをシングルクォーテーションで囲む。
+ダブルクォーテーションで囲むと認識されず、リンク先に飛ぶことが出来ない。
+
+$(function() {
+  // 「#change-text」要素に対するclickイベントを作成してください
+  $('#change-text').click(function(){
+    $('#text').text('ようこそ、Progateへ');
+  });
+  
+  // 「#change-html」要素に対するclickイベントを作成してください
+  $('#change-html').click(function(){
+    $('#text').html('<a href="https://prog-8.com/">ようこそ、Progateへ</a>');
+  });
+  
+});
