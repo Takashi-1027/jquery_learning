@@ -103,4 +103,9 @@ displayプロパティ
   参考画像：jquery01_image_15.jpg
 
 
-  
+アニメーション付きで要素を表示
+  fadeOutの反対そしてfadeInメソッド、slideUpメソッドの反対として
+  slideDownメソッドがあります。どちらもアニメーション付きで隠れた要素
+  を表示することができます。
+
+  参考画像：jquery01_image_16.jpg
