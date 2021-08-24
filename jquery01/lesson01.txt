@@ -148,4 +148,10 @@ cssメソッドで要素を隠す、表示する
   参考画像：jquery01_image_21.jpg
 
 
+textメソッドとhtmlメソッド
+HTMLを変更する（１）-textメソッドと
+  jQueryではcssだけでなく、textメソッドを用いることでHTMLそのものを変更することも出来ます。
+  textメソッドは、$('セレクタ').text('書き換える文字列');のように記述します。
+
+  参考画像：jquery01_image_22.jpg
 
