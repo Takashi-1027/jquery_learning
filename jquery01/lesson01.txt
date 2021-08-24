@@ -83,3 +83,12 @@ classとidをセレクタにする
   jQueryオブジェクトのセレクタにはできるだけidを用いるようにしましょう。
 
   参考画像：jquery01_image_13.jpg
+
+
+～要素を表示しよう～
+displayプロパティ
+  CSSにはdisplayプロパティというものがあります。「display: none;」とすると
+  要素を隠すことができます（displayプロパティに関して、詳しくは
+  HTML&CSS中級編を参照してください）。
+
+  参考画像：jquery01_image_14.jpg
