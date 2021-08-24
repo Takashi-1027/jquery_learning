@@ -130,4 +130,13 @@ clickイベント
   参考画像：jquery01_image_18.jpg
   参考画像：jquery01_image_19.jpg
 
+～cssメソッド～
+cssメソッドで色を変えよう
+  cssメソッドの具体例を見てみましょう。cssメソッドで要素の文字の色を変更したいときは
+  $('セレクタ').css('color','red');のように記述します。
+  widthやfont-sizeなど他のプロパティもすべてcssメソッドで変更することができます。
+
+  参考画像：jquery01_image_20.jpg
+
+
 
