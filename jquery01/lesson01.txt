@@ -64,3 +64,13 @@ hideメソッドを使ってみよう
   参考画像：jquery01_image_9.jpg
   参考画像：jquery01_image_10.jpg
   参考画像：jquery01_image_11.jpg
+
+
+～classとid～
+classとid
+  HTMLタグに名前を付ける方法として、HTMLコースでclassを学習しました。
+  これと同様にidというものがあります。idはclassと同じように使いますが、
+  classとの違いとして、1つのページ内で同じid名を複数回使うことはできません。
+  idはclassと同様、下図のように指定します。
+
+  参考画像：jquery01_image_12.jpg
